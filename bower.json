@@ -22,8 +22,6 @@
   }
   "devDependencies": {
     "angular": "latest",
-    "angular-mocks": "latest",
-    "jquery": "latest",
     "twemoji": "~1.4.1"
   }
   "ignore": [
