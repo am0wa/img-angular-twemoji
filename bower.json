@@ -19,11 +19,11 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/andrewmur/img-angular-twemoji.git"
-  }
+  },
   "devDependencies": {
     "angular": "latest",
     "twemoji": "~1.4.1"
-  }
+  },
   "ignore": [
     ".git",
     ".gitignore",
