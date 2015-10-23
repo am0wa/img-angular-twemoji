@@ -1,0 +1,23 @@
+{
+  "name": "img-angular-twemoji",
+  "description": "Bower component for using [Twitter Emoji](https://github.com/twitter/twemoji) with [Angular](https://angularjs.org//) for images insertion (by default *.svg).",
+  "keywords": [
+    "angular",
+    "twemoji",
+    "angular-emoji",
+	"svg-twemoji",
+	"img-angular-twemoji"
+  ],
+  "main": [    
+    "img-angular-twemoji.js"
+  ],
+  "homepage": "https://github.com/andrewmur/img-angular-twemoji",
+  "license": "MIT",
+  "author": {
+    "name": "Andrew Mur."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrewmur/img-angular-twemoji.git"
+  }
+}
